@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/test.dir/src/ReservedToken.cpp.o CMakeFiles/test.dir/src/main.cpp.o -o bin/test 
